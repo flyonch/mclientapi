@@ -23,5 +23,5 @@ dist_*/
 .DS_Store
 Thumbs.db
 
-
-docker/data
+ dockerApi/docker/data/
+ docker/data
